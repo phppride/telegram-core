@@ -21,7 +21,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Phppride\\TelegramCore\\Tests\\": "tests/"
+            "Phppride\\TelegramCore\\Tests\\": "Tests/"
         }
     }
 }
